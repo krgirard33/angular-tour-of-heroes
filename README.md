@@ -1,3 +1,7 @@
+# Changes
+
+To get around outdated packages in '6. Simulate a data server', I used 'npm i angular-in-memory-web-api@0.11.0' in place of 'npm install angular-in-memory-web-api --save' which was looking for '@angular/common@"^16.0.0"'.
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.18.
